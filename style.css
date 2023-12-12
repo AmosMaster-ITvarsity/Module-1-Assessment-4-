@@ -1,0 +1,39 @@
+table{
+    font-family: helvatica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: midnightblue;
+    background-color: #b0f7ff;
+}
+
+th{
+    font-weight: 800;
+    background-color: darkmagenta;
+    color: white;
+    
+}
+h1{
+    margin-top: -50px;
+    margin-left: 150px;
+}
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: dimgray;
+    color: white;
+    
+}
+
+i{
+    background-color: dimgrey;
+    color: darkorange;
+}
+
+.gallery{
+    
+    margin-top: -535px;
+    margin-left: 722px;
+}
